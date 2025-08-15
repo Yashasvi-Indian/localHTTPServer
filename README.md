@@ -13,6 +13,6 @@ No frameworks. No dependencies. Just raw networking and clean logic.
 
 ## 🚀 How to Run
 
-1. Compile the server:
-   ```bash
-   javac SimpleHttpServer.java
+ Compile the server:
+   
+   
